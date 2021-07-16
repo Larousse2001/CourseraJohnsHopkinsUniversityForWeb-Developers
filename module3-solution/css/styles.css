@@ -4,7 +4,7 @@
 
 .title {
     margin-bottom: 15px;
-    font-family: Helvetica;
+    font-family: Helvetica, cursive, sans-serif;
     text-align: center;
     border: 3px solid rgb(228, 18, 217);
     background-color: rgb(206, 29, 117);
@@ -18,8 +18,8 @@ p {
     position: center;
     border: 1px solid black;
     background-color: rgb(168, 168, 168);
-    width: 100%;
-    height: 450px;
-    font-family: Helvetica;
+    width: auto;
+    height: auto;
+    font-family: Comic Sans MS, cursive, sans-serif;
     color: white;
 }
