@@ -16,6 +16,8 @@
 }
 
 .title {
+    margin-bottom: 15px;
+    font-family: Helvetica;
     text-align: center;
     border: 1px solid black;
     background-color: rgb(146, 194, 35);
@@ -30,7 +32,7 @@ p {
     border: 1px solid black;
     background-color: rgb(155, 147, 147);
     width: 100%;
-    height: 400px;
+    height: 350px;
     font-family: Helvetica;
     color: white;
 }
