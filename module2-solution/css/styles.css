@@ -1,4 +1,4 @@
-        /********** Base styles **********/
+    /********** Base styles **********/
     
     .row {
         margin-bottom: 15px;
@@ -67,6 +67,10 @@
             float: left;
             border: 1px solid rgb(255, 255, 255);
             clear: unset;
+            position: relative;
+            min-height: 1px;
+            padding-right: 15px;
+            padding-left: 15px;
         }
         .col-lg-1 {
             width: 33.33%;
@@ -86,6 +90,10 @@
         .col-md-3 {
             float: left;
             border: 1px solid rgb(255, 255, 255);
+            position: relative;
+            min-height: 1px;
+            padding-right: 15px;
+            padding-left: 15px;
         }
         .col-md-1 {
             width: 50%;
@@ -106,6 +114,10 @@
         .col-md-3 {
             float: left;
             border: 1px solid rgb(255, 255, 255);
+            position: relative;
+            min-height: 1px;
+            padding-right: 15px;
+            padding-left: 15px;
         }
         .col-md-1 {
             width: 100%;
