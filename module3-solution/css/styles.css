@@ -7,14 +7,6 @@
     background-color: gray;
 }
 
-.label {
-    text-align: center;
-    text-transform: uppercase;
-    color: azure;
-    width: 300px;
-    height: 100px;
-}
-
 .title {
     margin-bottom: 15px;
     font-family: Helvetica;
