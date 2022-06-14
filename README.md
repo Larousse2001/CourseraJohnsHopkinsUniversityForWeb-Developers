@@ -22,6 +22,6 @@ https://larousse2001.github.io/CourseraJohnsHopkinsUniversityForWeb-Developers/m
 https://larousse2001.github.io/CourseraJohnsHopkinsUniversityForWeb-Developers/mod3-solution/
 https://larousse2001.github.io/CourseraJohnsHopkinsUniversityForWeb-Developers/mod4-solution/
 https://larousse2001.github.io/CourseraJohnsHopkinsUniversityForWeb-Developers/mod5-solution/
-https://larousse2001.github.io/CourseraJohnsHopkinsUniversityForWeb-Developers/Another one mod4/
-https://larousse2001.github.io/CourseraJohnsHopkinsUniversityForWeb-Developers/Another one mod5-1/
-https://larousse2001.github.io/CourseraJohnsHopkinsUniversityForWeb-Developers/Another one mod5-2/
+https://larousse2001.github.io/CourseraJohnsHopkinsUniversityForWeb-Developers/Another%20one%20mod4/
+https://larousse2001.github.io/CourseraJohnsHopkinsUniversityForWeb-Developers/Another%20one%20mod5-1/
+https://larousse2001.github.io/CourseraJohnsHopkinsUniversityForWeb-Developers/Another%20one%20mod5-2/
